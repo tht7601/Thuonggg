@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\obj\Debug\QuanLyKhachSan1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\obj\Debug\QuanLyKhachSan1.FormtblPhong2.resources
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\obj\Debug\QuanLyKhachSan1.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\obj\Debug\QuanLyKhachSan1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\bin\Debug\QuanLyKhachSan1.exe
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\bin\Debug\QuanLyKhachSan1.pdb
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\obj\Debug\QuanLyKhachSan1.exe
+C:\Users\Admin\source\repos\QuanLyKhachSan\QuanLyKhachSan1\obj\Debug\QuanLyKhachSan1.pdb
